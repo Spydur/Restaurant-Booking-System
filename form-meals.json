@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Rajasthani Thali",
+		"price": "20",
+		"description": "Authentic Rajasthani Thali",
+		"active": true
+	},
+	{
+		"name": "Dal Bati Choorma",
+		"price": "20",
+		"description": "Dal Bati is a traditional rajasthani meal.",
+		"active": false
+	},
+	{
+		"name": "Gujrati Thali",
+		"price": "20",
+		"description": "Gujarati thali , one dry dal or some sprouted pulses dish (ugaadayla mung, for instance), a wet dal, kadhi, kathor (a savoury), mithai, poori, rotis, steamed rice and papad.",
+		"active": false
+	}
+
+]
